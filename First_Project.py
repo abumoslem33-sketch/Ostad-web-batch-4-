@@ -65,18 +65,29 @@ category=input("Category:")
 print(item,amount,category)
 #FR-02
     if category=="":
-       category="other"
+       category="other
 
 
-# FR-01
-    print(item,amount,category)
-    expenses.append()
-      {
-           "item":item,
-           "amount":amount,
-           "category":category,
-      }
-   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 print(expenses)
 print(get_category_wise_data(expenses))
 print("Done!Thanks for using this app!")
@@ -91,4 +102,3 @@ print("Done!Thanks for using this app!")
 
 
 
-# firstproject14-
